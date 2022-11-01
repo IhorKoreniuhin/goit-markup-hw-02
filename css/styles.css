@@ -17,7 +17,7 @@ body {
     color: var(--primary-text-color);
 }
 
-/* Прибираємо крапочки в списках */
+/* Прибираємо крапочки в списках. */
 
 .list {
     list-style: none;
